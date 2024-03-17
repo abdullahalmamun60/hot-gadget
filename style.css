@@ -1,0 +1,32 @@
+.buy-now-button{
+    background-image: linear-gradient(to bottom,black 0%,#000000c4 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.bg1
+{
+    background-image: url(hot-gadgets/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.bg2
+{
+    background-image: url(hot-gadgets/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    margin-bottom: 70px;
+}
+.card
+{
+    border:none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.marg
+{
+    margin-top: 50px;
+}
